@@ -1,7 +1,7 @@
 # !/bin/bash
 
-export SHRP_MAINTAINER="epicX"
-export SHRP_DEVICE="c103"
+export SHRP_MAINTAINER="FREEZY"
+export SHRP_DEVICE="RMX1821"
 export SHRP_EDL_MODE="1"
 export SHRP_EXTERNAL="/external_sd"
 export SHRP_INTERNAL="/sdcard"
